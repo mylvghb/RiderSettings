@@ -1,6 +1,16 @@
 <application>
   <component name="org.jetbrains.tfsIntegration.core.configuration.TFSConfigurationManager">
     <option name="config">
+      <server uri="http://192.168.10.250:8080/">
+        <configuration>
+          <credentials>
+            <credentials>
+              <password>df9bdf98df99df9edf9fdf9c</password>
+              <username>lilanjun</username>
+            </credentials>
+          </credentials>
+        </configuration>
+      </server>
       <server uri="http://192.168.10.250:8080/tfs/DefaultCollection/">
         <configuration>
           <credentials>
