@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\ServiceModel\Users.cs'" />
-    <option name="defaultScopeName" value="File '...\ServiceModel\Users.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\ServiceModel\Users.cs'" />
+    <option name="customScope" value="File '...\ServiceInterface\GroupService.cs'" />
+    <option name="defaultScopeName" value="File '...\ServiceInterface\GroupService.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\ServiceInterface\GroupService.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
