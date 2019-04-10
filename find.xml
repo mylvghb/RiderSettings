@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\TaskAssignOnline\Controllers\AdminController.cs'" />
-    <option name="defaultScopeName" value="File '...\TaskAssignOnline\Controllers\AdminController.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\TaskAssignOnline\Controllers\AdminController.cs'" />
+    <option name="customScope" value="File '...\TaskAssignOnline\Controllers\AccountController.cs'" />
+    <option name="defaultScopeName" value="File '...\TaskAssignOnline\Controllers\AccountController.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\TaskAssignOnline\Controllers\AccountController.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
