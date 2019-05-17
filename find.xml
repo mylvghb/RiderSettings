@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\TaskAssignOnline\Views\Admin\UserDeduction.cshtml'" />
-    <option name="defaultScopeName" value="File '...\TaskAssignOnline\Views\Admin\UserDeduction.cshtml'" />
-    <option name="SEARCH_SCOPE" value="File '...\TaskAssignOnline\Views\Admin\UserDeduction.cshtml'" />
+    <option name="customScope" value="File '...\Helpers\DocumentConverter.cs'" />
+    <option name="defaultScopeName" value="File '...\Helpers\DocumentConverter.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Helpers\DocumentConverter.cs'" />
   </component>
 </application>
