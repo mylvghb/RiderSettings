@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'OnlineEditorsExampleMVC'" />
-    <option name="defaultScopeName" value="Project 'OnlineEditorsExampleMVC'" />
-    <option name="SEARCH_SCOPE" value="Project 'OnlineEditorsExampleMVC'" />
+    <option name="customScope" value="File '...\Program.cs'" />
+    <option name="defaultScopeName" value="File '...\Program.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Program.cs'" />
   </component>
 </application>
