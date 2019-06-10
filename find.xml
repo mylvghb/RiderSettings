@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\HelloWorldService\HelloWorldService.csproj'" />
-    <option name="defaultScopeName" value="File '...\HelloWorldService\HelloWorldService.csproj'" />
-    <option name="SEARCH_SCOPE" value="File '...\HelloWorldService\HelloWorldService.csproj'" />
+    <option name="customScope" value="File '...\ReidsonMessenger\ReidsonMessenger.csproj'" />
+    <option name="defaultScopeName" value="File '...\ReidsonMessenger\ReidsonMessenger.csproj'" />
+    <option name="SEARCH_SCOPE" value="File '...\ReidsonMessenger\ReidsonMessenger.csproj'" />
   </component>
 </application>
