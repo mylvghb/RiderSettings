@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\ReidsonMessenger\ReidsonMessenger.csproj'" />
-    <option name="defaultScopeName" value="File '...\ReidsonMessenger\ReidsonMessenger.csproj'" />
-    <option name="SEARCH_SCOPE" value="File '...\ReidsonMessenger\ReidsonMessenger.csproj'" />
+    <option name="customScope" value="File '...\Pdf2Word\Pdf2Word.csproj'" />
+    <option name="defaultScopeName" value="File '...\Pdf2Word\Pdf2Word.csproj'" />
+    <option name="SEARCH_SCOPE" value="File '...\Pdf2Word\Pdf2Word.csproj'" />
   </component>
 </application>
