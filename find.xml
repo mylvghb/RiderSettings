@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'MobileTask'" />
-    <option name="defaultScopeName" value="Project 'MobileTask'" />
-    <option name="SEARCH_SCOPE" value="Project 'MobileTask'" />
+    <option name="customScope" value="Selected Files And Folders" />
+    <option name="defaultScopeName" value="Selected Files And Folders" />
+    <option name="SEARCH_SCOPE" value="Selected Files And Folders" />
   </component>
 </application>
