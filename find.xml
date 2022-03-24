@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Dal\EpoolTM.DataAccess\Stm\StmSettlementDao.cs'" />
-    <option name="defaultScopeName" value="File '…\Dal\EpoolTM.DataAccess\Stm\StmSettlementDao.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Dal\EpoolTM.DataAccess\Stm\StmSettlementDao.cs'" />
+    <option name="customScope" value="File '…\Applications\EpoolTM.Stm\Services\SettlementService.cs'" />
+    <option name="defaultScopeName" value="File '…\Applications\EpoolTM.Stm\Services\SettlementService.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Applications\EpoolTM.Stm\Services\SettlementService.cs'" />
   </component>
 </application>
