@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'MobileTask'" />
-    <option name="defaultScopeName" value="Project 'MobileTask'" />
-    <option name="SEARCH_SCOPE" value="Project 'MobileTask'" />
+    <option name="customScope" value="File '…\DataObjects\EpoolTM.Model\Dtos\SettlementApplicationDto.cs'" />
+    <option name="defaultScopeName" value="File '…\DataObjects\EpoolTM.Model\Dtos\SettlementApplicationDto.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\DataObjects\EpoolTM.Model\Dtos\SettlementApplicationDto.cs'" />
   </component>
 </application>
