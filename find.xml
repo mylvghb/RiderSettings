@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Hosts\EpoolTM.Portal\Scripts\app\stm\merge-settlement-list.js'" />
-    <option name="defaultScopeName" value="File '…\Hosts\EpoolTM.Portal\Scripts\app\stm\merge-settlement-list.js'" />
-    <option name="SEARCH_SCOPE" value="File '…\Hosts\EpoolTM.Portal\Scripts\app\stm\merge-settlement-list.js'" />
+    <option name="customScope" value="File '…\Hosts\EpoolTM.Portal\Scripts\app\listview.js'" />
+    <option name="defaultScopeName" value="File '…\Hosts\EpoolTM.Portal\Scripts\app\listview.js'" />
+    <option name="SEARCH_SCOPE" value="File '…\Hosts\EpoolTM.Portal\Scripts\app\listview.js'" />
   </component>
 </application>
