@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Office.Support.Services\Service\AbstractProcessPool.cs'" />
-    <option name="defaultScopeName" value="File '…\Office.Support.Services\Service\AbstractProcessPool.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Office.Support.Services\Service\AbstractProcessPool.cs'" />
+    <option name="customScope" value="File '…\Office.Support.Services\Service\WordProcessPools.cs'" />
+    <option name="defaultScopeName" value="File '…\Office.Support.Services\Service\WordProcessPools.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Office.Support.Services\Service\WordProcessPools.cs'" />
   </component>
 </application>
