@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\OfficeTool\Models.cs'" />
-    <option name="defaultScopeName" value="File '…\OfficeTool\Models.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\OfficeTool\Models.cs'" />
+    <option name="customScope" value="File '…\OfficeTool\MainForm.cs'" />
+    <option name="defaultScopeName" value="File '…\OfficeTool\MainForm.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\OfficeTool\MainForm.cs'" />
   </component>
 </application>
