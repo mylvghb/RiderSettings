@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Hosts\EpoolTM.Portal\Helper\EpoolTMHtmlHelper.cs'" />
-    <option name="defaultScopeName" value="File '…\Hosts\EpoolTM.Portal\Helper\EpoolTMHtmlHelper.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Hosts\EpoolTM.Portal\Helper\EpoolTMHtmlHelper.cs'" />
+    <option name="customScope" value="File '…\ConsoleApp1\StringExtend.cs'" />
+    <option name="defaultScopeName" value="File '…\ConsoleApp1\StringExtend.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\ConsoleApp1\StringExtend.cs'" />
   </component>
 </application>
