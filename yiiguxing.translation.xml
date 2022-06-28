@@ -1,5 +1,29 @@
 <application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="2718" />
+    <option name="newTranslationDialogY" value="455" />
+    <histories>
+      <item value="The pattern will not be used as regular expression. Please use Replace(Regex, string, FindReplaceOptions) if you need regular expressions. Method is able to process breaks in both pattern and replacement strings. You should use special meta-characters if you need to work with breaks: &amp;p - paragraph break &amp;b - section break &amp;m - page break &amp;l - manual line break &amp;&amp; - &amp; character" />
+      <item value="Replaces all occurrences of a specified character string pattern with a replacement string." />
+      <item value="DocumentBuilder makes the process of building a Document easier. Document is a composite object consisting of a tree of nodes and while inserting content nodes directly into the tree is possible, it requires good understanding of the tree structure. DocumentBuilder is a &quot;facade&quot; for the complex structure of Document and allows to insert content and formatting quickly and easily. Create a DocumentBuilder and associate it with a Document. The DocumentBuilder has an internal cursor where the text will be inserted when you call Write(string), Writeln(string), InsertBreak(BreakType) and other methods. You can navigate the DocumentBuilder cursor to a different location in a document using various MoveToXXX methods. Use the Font property to specify character formatting that will apply to all text inserted from the current position in the document onwards. Use the ParagraphFormat property to specify paragraph formatting for the current and all paragraphs that will be inserted. Use the PageSetup property to specify page and section properties for the current section and all section that will be inserted. Use the CellFormat and RowFormat properties to specify formatting properties for table cells and rows. User the InsertCell() and EndRow() methods to build a table. Note that Font, ParagraphFormat and PageSetup properties are updated whenever you navigate to a different place in the document to reflect formatting properties available at the new location." />
+      <item value="Provides methods to insert text, images and other content, specify font, paragraph and section formatting." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="5" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1656398179861" />
+  </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="CHINESE" />
+      </google-translate>
+    </option>
     <option name="translateDocumentation" value="true" />
   </component>
 </application>
