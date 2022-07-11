@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2718" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="00000000-0000-0000-0000-000000000000" />
       <item value="Indicates all node types. Allows to select all children." />
       <item value="remaining Length" />
       <item value="Now highlight all runs in the sequence." />
@@ -25,13 +26,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
+        <entry key="CHINESE" value="16" />
         <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656398179861" />
+    <option name="lastTrimTime" value="1657506667000" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
