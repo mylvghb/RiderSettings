@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2718" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Approve" />
       <item value="00000000-0000-0000-0000-000000000000" />
       <item value="Indicates all node types. Allows to select all children." />
       <item value="remaining Length" />
@@ -27,7 +28,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>

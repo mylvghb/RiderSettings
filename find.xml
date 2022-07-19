@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Hosts\EpoolTM.Portal\Views\Shared\_Layout.cshtml'" />
-    <option name="defaultScopeName" value="File '…\Hosts\EpoolTM.Portal\Views\Shared\_Layout.cshtml'" />
+    <option name="customScope" value="File '…\Dal\EpoolTM.DataAccess\Prm\PrmProjectDao.cs'" />
+    <option name="defaultScopeName" value="File '…\Dal\EpoolTM.DataAccess\Prm\PrmProjectDao.cs'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\Hosts\EpoolTM.Portal\Views\Shared\_Layout.cshtml'" />
+    <option name="SEARCH_SCOPE" value="File '…\Dal\EpoolTM.DataAccess\Prm\PrmProjectDao.cs'" />
   </component>
 </application>
