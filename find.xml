@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\DataObjects\EpoolTM.Model\Entities\SYS_Language.cs'" />
-    <option name="defaultScopeName" value="File '…\DataObjects\EpoolTM.Model\Entities\SYS_Language.cs'" />
+    <option name="customScope" value="File '…\Dal\EpoolTM.DataAccess\Sys\TranslationDirectionDao.cs'" />
+    <option name="defaultScopeName" value="File '…\Dal\EpoolTM.DataAccess\Sys\TranslationDirectionDao.cs'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\DataObjects\EpoolTM.Model\Entities\SYS_Language.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Dal\EpoolTM.DataAccess\Sys\TranslationDirectionDao.cs'" />
   </component>
 </application>
