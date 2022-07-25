@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Hosts\EpoolTM.Portal\Helper\EpoolTMHtmlHelper.cs'" />
-    <option name="defaultScopeName" value="File '…\Hosts\EpoolTM.Portal\Helper\EpoolTMHtmlHelper.cs'" />
+    <option name="customScope" value="File '…\DataObjects\EpoolTM.Model\Entities\SYS_Language.cs'" />
+    <option name="defaultScopeName" value="File '…\DataObjects\EpoolTM.Model\Entities\SYS_Language.cs'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\Hosts\EpoolTM.Portal\Helper\EpoolTMHtmlHelper.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\DataObjects\EpoolTM.Model\Entities\SYS_Language.cs'" />
   </component>
 </application>
