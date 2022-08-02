@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
+    <option name="customScope" value="File '…\Hosts\EpoolTM.Portal\Scripts\app\prm\project-name-list.js'" />
+    <option name="defaultScopeName" value="File '…\Hosts\EpoolTM.Portal\Scripts\app\prm\project-name-list.js'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="SEARCH_SCOPE" value="File '…\Hosts\EpoolTM.Portal\Scripts\app\prm\project-name-list.js'" />
   </component>
 </application>
