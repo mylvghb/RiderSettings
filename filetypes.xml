@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".prettierrc" type="JSON" />
+      <removed_mapping ext="template" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
