@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2718" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Update only fields in anonymous type" />
       <item value="Execute any arbitrary raw SQL with db params." />
       <item value="Abandon" />
       <item value="Approve" />
