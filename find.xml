@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\FormUtils.cs'" />
-    <option name="defaultScopeName" value="File '…\FormUtils.cs'" />
+    <option name="customScope" value="File '…\LoginForm.cs'" />
+    <option name="defaultScopeName" value="File '…\LoginForm.cs'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\FormUtils.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\LoginForm.cs'" />
   </component>
 </application>
