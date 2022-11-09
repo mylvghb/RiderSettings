@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\ConsoleApp1\Program.cs'" />
-    <option name="defaultScopeName" value="File '…\ConsoleApp1\Program.cs'" />
+    <option name="customScope" value="File '…\WebApp\Configure.Db.cs'" />
+    <option name="defaultScopeName" value="File '…\WebApp\Configure.Db.cs'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\ConsoleApp1\Program.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\WebApp\Configure.Db.cs'" />
   </component>
 </application>
