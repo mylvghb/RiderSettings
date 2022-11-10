@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\WebApp\Configure.Db.cs'" />
-    <option name="defaultScopeName" value="File '…\WebApp\Configure.Db.cs'" />
+    <option name="customScope" value="File '…\Hosts\EpoolTM.Portal\Areas\Prm\Views\ProjectUnder\TranslationDispatchList.cshtml'" />
+    <option name="defaultScopeName" value="File '…\Hosts\EpoolTM.Portal\Areas\Prm\Views\ProjectUnder\TranslationDispatchList.cshtml'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\WebApp\Configure.Db.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Hosts\EpoolTM.Portal\Areas\Prm\Views\ProjectUnder\TranslationDispatchList.cshtml'" />
   </component>
 </application>
