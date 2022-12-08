@@ -54,6 +54,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Traverse through all sections of the original document" />
       <item value="Only top-level paragraphstables can be used as a starting node of a page." />
       <item value="Starting node must be a paragraph or a table in the main story of the document." />
     </histories>
