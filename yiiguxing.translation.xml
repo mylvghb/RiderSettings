@@ -47,13 +47,14 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1670381397094" />
+    <option name="lastTrimTime" value="1672110644915" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Console app doesn't have a message loop which we need as Cef.InitializeCef.Shutdown" />
       <item value="Composite" />
       <item value="Traverse through all sections of the original document" />
       <item value="Only top-level paragraphstables can be used as a starting node of a page." />
@@ -61,8 +62,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
