@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Views\Home\Index.aspx'" />
-    <option name="defaultScopeName" value="File '…\Views\Home\Index.aspx'" />
+    <option name="customScope" value="File '…\Scripts\jscript.js'" />
+    <option name="defaultScopeName" value="File '…\Scripts\jscript.js'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\Views\Home\Index.aspx'" />
+    <option name="SEARCH_SCOPE" value="File '…\Scripts\jscript.js'" />
   </component>
 </application>
