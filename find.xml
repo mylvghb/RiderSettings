@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Selected text" />
-    <option name="defaultScopeName" value="Selected text" />
+    <option name="customScope" value="File '…\Views\Home\Editor.aspx'" />
+    <option name="defaultScopeName" value="File '…\Views\Home\Editor.aspx'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Selected text" />
+    <option name="SEARCH_SCOPE" value="File '…\Views\Home\Editor.aspx'" />
   </component>
 </application>
